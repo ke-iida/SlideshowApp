@@ -19,7 +19,7 @@
 		F7CFEDEB27B8AD0E00ED065B /* sample3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F7CFEDEA27B8AD0E00ED065B /* sample3.jpeg */; };
 		F7CFEDED27B8AD1D00ED065B /* sample3-big.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F7CFEDEC27B8AD1D00ED065B /* sample3-big.jpg */; };
 		F7CFEDEF27B8E8FC00ED065B /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7CFEDEE27B8E8FC00ED065B /* ResultViewController.swift */; };
-		F7CFEE1327BE2BF200ED065B /* sample1-big.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F7CFEE1227BE2BF200ED065B /* sample1-big.jpeg */; };
+		F7CFEE1D27C3087B00ED065B /* sample1-big.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F7CFEE1C27C3087B00ED065B /* sample1-big.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,7 +37,7 @@
 		F7CFEDEA27B8AD0E00ED065B /* sample3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sample3.jpeg; sourceTree = "<group>"; };
 		F7CFEDEC27B8AD1D00ED065B /* sample3-big.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "sample3-big.jpg"; sourceTree = "<group>"; };
 		F7CFEDEE27B8E8FC00ED065B /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
-		F7CFEE1227BE2BF200ED065B /* sample1-big.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "sample1-big.jpeg"; path = "../../../Downloads/sample1-big.jpeg"; sourceTree = "<group>"; };
+		F7CFEE1C27C3087B00ED065B /* sample1-big.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "sample1-big.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,7 +70,7 @@
 		F7CFEDCD27B8A72100ED065B /* SlideshowApp */ = {
 			isa = PBXGroup;
 			children = (
-				F7CFEE1227BE2BF200ED065B /* sample1-big.jpeg */,
+				F7CFEE1C27C3087B00ED065B /* sample1-big.jpeg */,
 				F7CFEDEC27B8AD1D00ED065B /* sample3-big.jpg */,
 				F7CFEDEA27B8AD0E00ED065B /* sample3.jpeg */,
 				F7CFEDE827B8AD0000ED065B /* sample2-big.jpeg */,
@@ -147,8 +147,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				F7CFEDDB27B8A72800ED065B /* LaunchScreen.storyboard in Resources */,
+				F7CFEE1D27C3087B00ED065B /* sample1-big.jpeg in Resources */,
 				F7CFEDD827B8A72800ED065B /* Assets.xcassets in Resources */,
-				F7CFEE1327BE2BF200ED065B /* sample1-big.jpeg in Resources */,
 				F7CFEDE727B8ACF100ED065B /* sample2.jpeg in Resources */,
 				F7CFEDD627B8A72100ED065B /* Main.storyboard in Resources */,
 				F7CFEDEB27B8AD0E00ED065B /* sample3.jpeg in Resources */,
