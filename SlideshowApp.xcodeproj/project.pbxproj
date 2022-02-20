@@ -13,6 +13,13 @@
 		F7CFEDD627B8A72100ED065B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F7CFEDD427B8A72100ED065B /* Main.storyboard */; };
 		F7CFEDD827B8A72800ED065B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F7CFEDD727B8A72800ED065B /* Assets.xcassets */; };
 		F7CFEDDB27B8A72800ED065B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F7CFEDD927B8A72800ED065B /* LaunchScreen.storyboard */; };
+		F7CFEDE327B8ABE700ED065B /* sample1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F7CFEDE227B8ABE600ED065B /* sample1.jpeg */; };
+		F7CFEDE727B8ACF100ED065B /* sample2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F7CFEDE627B8ACF100ED065B /* sample2.jpeg */; };
+		F7CFEDE927B8AD0000ED065B /* sample2-big.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F7CFEDE827B8AD0000ED065B /* sample2-big.jpeg */; };
+		F7CFEDEB27B8AD0E00ED065B /* sample3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F7CFEDEA27B8AD0E00ED065B /* sample3.jpeg */; };
+		F7CFEDED27B8AD1D00ED065B /* sample3-big.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F7CFEDEC27B8AD1D00ED065B /* sample3-big.jpg */; };
+		F7CFEDEF27B8E8FC00ED065B /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7CFEDEE27B8E8FC00ED065B /* ResultViewController.swift */; };
+		F7CFEE1327BE2BF200ED065B /* sample1-big.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F7CFEE1227BE2BF200ED065B /* sample1-big.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +31,13 @@
 		F7CFEDD727B8A72800ED065B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F7CFEDDA27B8A72800ED065B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F7CFEDDC27B8A72800ED065B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F7CFEDE227B8ABE600ED065B /* sample1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sample1.jpeg; sourceTree = "<group>"; };
+		F7CFEDE627B8ACF100ED065B /* sample2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sample2.jpeg; sourceTree = "<group>"; };
+		F7CFEDE827B8AD0000ED065B /* sample2-big.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "sample2-big.jpeg"; sourceTree = "<group>"; };
+		F7CFEDEA27B8AD0E00ED065B /* sample3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sample3.jpeg; sourceTree = "<group>"; };
+		F7CFEDEC27B8AD1D00ED065B /* sample3-big.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "sample3-big.jpg"; sourceTree = "<group>"; };
+		F7CFEDEE27B8E8FC00ED065B /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
+		F7CFEE1227BE2BF200ED065B /* sample1-big.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "sample1-big.jpeg"; path = "../../../Downloads/sample1-big.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,9 +70,16 @@
 		F7CFEDCD27B8A72100ED065B /* SlideshowApp */ = {
 			isa = PBXGroup;
 			children = (
+				F7CFEE1227BE2BF200ED065B /* sample1-big.jpeg */,
+				F7CFEDEC27B8AD1D00ED065B /* sample3-big.jpg */,
+				F7CFEDEA27B8AD0E00ED065B /* sample3.jpeg */,
+				F7CFEDE827B8AD0000ED065B /* sample2-big.jpeg */,
+				F7CFEDE627B8ACF100ED065B /* sample2.jpeg */,
+				F7CFEDE227B8ABE600ED065B /* sample1.jpeg */,
 				F7CFEDCE27B8A72100ED065B /* AppDelegate.swift */,
 				F7CFEDD027B8A72100ED065B /* SceneDelegate.swift */,
 				F7CFEDD227B8A72100ED065B /* ViewController.swift */,
+				F7CFEDEE27B8E8FC00ED065B /* ResultViewController.swift */,
 				F7CFEDD427B8A72100ED065B /* Main.storyboard */,
 				F7CFEDD727B8A72800ED065B /* Assets.xcassets */,
 				F7CFEDD927B8A72800ED065B /* LaunchScreen.storyboard */,
@@ -127,7 +148,13 @@
 			files = (
 				F7CFEDDB27B8A72800ED065B /* LaunchScreen.storyboard in Resources */,
 				F7CFEDD827B8A72800ED065B /* Assets.xcassets in Resources */,
+				F7CFEE1327BE2BF200ED065B /* sample1-big.jpeg in Resources */,
+				F7CFEDE727B8ACF100ED065B /* sample2.jpeg in Resources */,
 				F7CFEDD627B8A72100ED065B /* Main.storyboard in Resources */,
+				F7CFEDEB27B8AD0E00ED065B /* sample3.jpeg in Resources */,
+				F7CFEDED27B8AD1D00ED065B /* sample3-big.jpg in Resources */,
+				F7CFEDE927B8AD0000ED065B /* sample2-big.jpeg in Resources */,
+				F7CFEDE327B8ABE700ED065B /* sample1.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,6 +168,7 @@
 				F7CFEDD327B8A72100ED065B /* ViewController.swift in Sources */,
 				F7CFEDCF27B8A72100ED065B /* AppDelegate.swift in Sources */,
 				F7CFEDD127B8A72100ED065B /* SceneDelegate.swift in Sources */,
+				F7CFEDEF27B8E8FC00ED065B /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
